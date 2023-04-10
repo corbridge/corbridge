@@ -7,8 +7,8 @@ I'm a Mechatronics Engineering student at Universidad Autonoma de Nuevo Leon in 
 
 ### Fun Facts
 - I play basketball really often and train to be better basketball player :basketball:
-- 3D Hoobyist and DIY usefull stuff
+- 3D Hoobyist and DIY usefull stuff :gear:
 
-[![Tdop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbridge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbridge&hide_progress=true&hide=HTML,Javascript,css,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbridge&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
