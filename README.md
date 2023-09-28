@@ -12,4 +12,6 @@ I'm a Mechatronics Engineering student at Universidad Autonoma de Nuevo Leon in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corbridge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corbridge&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="left">
+ <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corbridge&theme=vue"/>
+ </p>
