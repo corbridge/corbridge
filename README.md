@@ -3,7 +3,7 @@
 # Hi, I'm Cornelio
 
 I'm a Mechatronics Engineering student at Universidad Autonoma de Nuevo Leon in Mexico 🇲🇽 who like to build robots, develop embedded systems and automate the boring stuff.
-- I'm working as an embedded software engineer in embedded reporogramming at John Deere :tractor:
+- I'm working as an software engineer in embedded reprogramming at John Deere :tractor:
 - Learning web development for fun!
 
 ### Past
